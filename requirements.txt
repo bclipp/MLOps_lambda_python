@@ -1,0 +1,4 @@
+awslambdaric
+pylint
+sklearn
+pickle5 
