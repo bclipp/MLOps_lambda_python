@@ -1,6 +1,7 @@
-import sys
+"""
+This module is the main function that loads adn predicts the model
+"""
 import pickle5 as pickle
-import sklearn
 import numpy as np
 
 
