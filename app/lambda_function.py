@@ -8,7 +8,6 @@ import numpy as np
 def handler(event, _):
     """
     The main entry function
-    
     :param event:
     :param _:
     :return:
